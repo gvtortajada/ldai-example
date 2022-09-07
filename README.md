@@ -26,3 +26,8 @@ Now you can run the 3 python scripts:
  - ocr.py parses the W9.pdf using the generic OCR processor and create ocr.json containing the json response from the API <br />
  - w9.py parses the W9.pdf using the W9 processor and create w9.json containing the json response from the API <br />
  - w9_batch.py parses the W9.pdf in a bucket using the W9 processor in batch mode and output the results in a the bucket <br />
+
+
+# Reference:
+
+https://cloud.google.com/document-ai/docs/reference
